@@ -76,17 +76,17 @@ The fix is to treat each logical deliverable as its own **fresh chat**. Open one
 Amp also gives you two built-in tools to stay tidy when a single deliverable is still too big:
 
 
-## **4. Deep-dive: Oracle & Subagents**
+## **4. Deep-dive: The oracle & Subagents**
 
 Use these tools to keep your main thread tidy by handling tasks that are too heavy or repetitive for the default agent.
 
-**4.1. Oracle – The “Senior Staff Engineer on Call”**
+**4.1. The oracle – The “Senior Staff Engineer on Call”**
 
 A powerful, read-only agent for deep analysis. Use it for complex bug hunts, architectural reviews, or strategic planning.
 
 
 * **Prompt Pattern:** Use the oracle to `<goal>`. Be concise and return only the key findings.
-* **Pro-tip:** Because Oracle is slower, add “summarise in ≤5 bullets” to your prompt.
+* **Pro-tip:** Because the oracle is slower, add “summarise in ≤5 bullets” to your prompt.
 
 <table>
   <tr>
