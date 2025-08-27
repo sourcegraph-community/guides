@@ -330,4 +330,4 @@ Give it **clear goals, guardrails, and feedback loops**, and it will ship code f
 
 Happy prompting!
 
-*For more information about Amp, please visit the *[Amp Homepage](https://ampcode.com).
+*For more information about Amp, please visit the [Amp Homepage](https://ampcode.com).*
