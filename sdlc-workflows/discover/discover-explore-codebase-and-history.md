@@ -45,15 +45,6 @@ What you’ll get:
 
 Prompts (use individually or as a short sequence):
 
-Auth boundary
-```text
-Identify the auth boundary:
-- Where sessions/tokens are created, verified, and refreshed
-- Middlewares/interceptors/guards and their order
-- Key files and responsibilities with brief one-liners
-Include paths under services/auth/** and apps/* that enforce auth at the edge.
-```
-
 Routing and endpoints
 ```text
 Outline HTTP and RPC entrypoints:
